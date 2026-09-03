@@ -1,0 +1,83 @@
+body{
+background-color: black;
+}
+.chat-box{
+background-color: rgb(220, 232, 243);
+border-radius: 20px;
+font-size: 1.05rem;
+padding: 20px;
+display: inline-block;
+font-weight: 600;
+}
+.msg-box{
+    background-color: rgb(102, 102, 235);
+    color: white;
+    padding: 5px 15px 5px 10px;
+    border-radius: 15px;
+}
+
+/* add-btn css */
+.add-btn{
+    background-color: rgb(115, 234, 119);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+/* main-head css */
+.main-head{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+/* edit-btn css */
+.edit-btn{
+    background-color: rgb(139, 199, 217);
+    color: black;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+/* del-btn css */
+.del-btn{
+    background-color: rgb(74, 57, 57);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+/* new box */
+.msg-box-main{
+background-color: rgb(220, 232, 243);
+color: black;
+border-radius: 20px;
+font-size: 1.05rem;
+padding: 20px;
+display: inline-block;
+font-weight: 600;
+}
+.chat-box-main{
+    background-color: rgb(102, 102, 235);
+    color: black;
+    padding: 10px 20px 10px 15px;
+    border-radius: 15px;
+}
+
+/* sub-btn css */
+
+.sub-btn{
+    background-color: rgb(115, 234, 119);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-size: 1.05rem;
+    font-weight: 600;
+}
